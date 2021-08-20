@@ -1,4 +1,4 @@
-# emplayer
+# eMplayer
 A basic and experimental mp3 player using HTA interface that supports playlists, but not recomended to use.  
 This is a project from **2007**, and contains the source code for the files that are presently available, and the project files or build files are missing.  
 
